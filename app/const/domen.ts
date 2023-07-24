@@ -1,0 +1,1 @@
+export const domen = 'http://192.168.61.108:5001/api'
